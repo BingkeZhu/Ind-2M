@@ -1,2 +1,2 @@
 # Ind-2M
-The dataset will be made publicly available in late Feb. 2024.
+The dataset will be made publicly available in Mar. 2024.
