@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/19bUh_S114CPiFQQH1_ezMT4A5xgAi3y0?usp=sha
 
 ## License
 
-[LICENSE](https://github.com/BingkeZhu/Ind-2M/blob/main/LICENSE.md).
+[DATASET LICENSE](https://github.com/BingkeZhu/Ind-2M/blob/main/LICENSE.md).
 
 ## Citation
 
